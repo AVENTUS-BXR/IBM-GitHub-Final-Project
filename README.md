@@ -11,3 +11,5 @@ This is the final project of the GitHub module within the IBM Full Stack Develop
 **Output:**
 
 1. simple interest = (p x t x r)
+
+_© 2023 XYZ, Inc._
